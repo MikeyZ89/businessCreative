@@ -1,6 +1,6 @@
 /*!
     * Start Bootstrap - Creative v6.0.1 (https://mikeyz89.github.io/businessCreative)
-    * Copyright 2013-2020 Start Bootstrap
+    * Copyright 2013-2020 Mike Zlotkowski
     * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
     */
     (function($) {

@@ -13,7 +13,7 @@
         "start:debug": "npm run build && node scripts/start-debug.js",
         "deploy": "gh-pages -d dist"
     },
-    "description": "Creative is a stylish one page HTML theme built with Bootstrap.",
+    "description": "Business Creative Theme",
     "keywords": [
         "css",
         "sass",
@@ -26,17 +26,14 @@
     ],
     "homepage": "https://mikeyz89.github.io/businessCreative",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/MikeyZ89/businessCreative",
+        "email": "michael.zlotkowski@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Mike Zlotkowski",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/MikeyZ89/businessCreative"
     },
     "dependencies": {
         "bootstrap": "4.4.1",
